@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SECOMP 2022</title>
+    <link>https://secompunicamp2022.github.io/</link>
+    <description>Recent content on SECOMP 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 01:45:00 -0300</lastBuildDate>
+    
+	<atom:link href="https://secompunicamp2022.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programação</title>
+      <link>https://secompunicamp2022.github.io/programacao/</link>
+      <pubDate>Wed, 24 Aug 2022 01:45:00 -0300</pubDate>
+      
+      <guid>https://secompunicamp2022.github.io/programacao/</guid>
+      <description>Pode ser que tenhamos alterações &amp;ndash; mesmo que mínimas &amp;ndash; nos horários ou locais de alguns eventos. Se isso acontecer, atualizaremos aqui e também avisaremos em nosso perfil do Instagram.
+➤ Segunda-feira (07/11) ☕ Coffee-break no hall do IC-3 das 10h às 10h30 e das 15h30 às 16h
+☕ Coffee-break no hall do Centro de Convenções das 19h30 às 20h
+10h30 às 12h: Palestra: Apresentação de entidades estudantis do Instituto de Computação</description>
+    </item>
+    
+    <item>
+      <title>Localização</title>
+      <link>https://secompunicamp2022.github.io/localizacao/</link>
+      <pubDate>Wed, 24 Aug 2022 01:44:05 -0300</pubDate>
+      
+      <guid>https://secompunicamp2022.github.io/localizacao/</guid>
+      <description>Com exceção da cerimônia de abertura, que acontece no Centro de Convenções da UNICAMP, todos os outros eventos da SECOMP 2022 acontecerão no Instituto de Computação 3 da UNICAMP. Abaixo seguem algumas informações para ajudar na localização de ambos os prédios.
+Centro de Convenções (CDC)   Endereço: Avenida Érico Veríssimo, 500. Cidade Universitária/Barão Geraldo, Campinas - SP.
+Link no Google Maps
+Instituto de Computação (IC) 3   Endereço: Rua Saturnino de Brito, 573.</description>
+    </item>
+    
+  </channel>
+</rss>
